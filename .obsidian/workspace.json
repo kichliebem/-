@@ -171,18 +171,18 @@
   },
   "active": "9e3b772e18a2b8ee",
   "lastOpenFiles": [
+    "数值分析的一些知识点.md",
+    "制冷回路拓补关联矩阵表示方法.md",
+    "求解器开发/六个月的计划.md",
+    "求解器开发/第一个月.md",
     "cursor_pdf 1.md",
     "矩阵变换类型及应用.md",
     "cursor_pdf.md",
     "小鹿与pdf.md",
-    "求解器开发/六个月的计划.md",
     "全局管网求解器方程与雅可比矩阵结构说明.md",
     "关于单个节点的水力耦合关系（三通管）.md",
-    "求解器开发/第一个月.md",
-    "数值分析的一些知识点.md",
     "求解器开发",
     "solver_roadmap_obsidian.md",
-    "6_months_Python_solver_learning_path.md",
-    "制冷回路拓补关联矩阵表示方法.md"
+    "6_months_Python_solver_learning_path.md"
   ]
 }
