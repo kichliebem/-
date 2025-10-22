@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "关于单个节点的水力耦合关系（三通管）.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 700.5
+    "width": 881.5
   },
   "left-ribbon": {
     "hiddenItems": {
