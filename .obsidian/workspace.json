@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关于单个节点的水力耦合关系（三通管）.md",
+                "file": "水力求解器拓扑与矩阵体系——完整总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于单个节点的水力耦合关系（三通管）"
+              "title": "水力求解器拓扑与矩阵体系——完整总结"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "关于单个节点的水力耦合关系（三通管）.md",
+                "file": "水力求解器拓扑与矩阵体系——完整总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "关于单个节点的水力耦合关系（三通管） 的反向链接列表"
+              "title": "水力求解器拓扑与矩阵体系——完整总结 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "关于单个节点的水力耦合关系（三通管）.md",
+                "file": "水力求解器拓扑与矩阵体系——完整总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "关于单个节点的水力耦合关系（三通管） 的出链列表"
+              "title": "水力求解器拓扑与矩阵体系——完整总结 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "关于单个节点的水力耦合关系（三通管）.md",
+                "file": "水力求解器拓扑与矩阵体系——完整总结.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "关于单个节点的水力耦合关系（三通管） 的大纲"
+              "title": "水力求解器拓扑与矩阵体系——完整总结 的大纲"
             }
           },
           {
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 881.5
+    "width": 590.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,11 +208,12 @@
   },
   "active": "5343ef7a909c14f7",
   "lastOpenFiles": [
+    "热工流体数值求解器开发常见难点与对策.md",
+    "全局管网求解器方程与雅可比矩阵结构说明.md",
+    "水力求解器拓扑与矩阵体系——完整总结.md",
+    "关于单个节点的水力耦合关系（三通管）.md",
     "求解器开发/六个月的计划.md",
     "关于仿真平台的开发架构与对比.md",
-    "全局管网求解器方程与雅可比矩阵结构说明.md",
-    "热工流体数值求解器开发常见难点与对策.md",
-    "水力求解器拓扑与矩阵体系——完整总结.md",
     "制冷回路拓补关联矩阵表示方法.md",
     "矩阵变换类型及应用.md",
     "未命名.base",
@@ -222,7 +223,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "关于单个节点的水力耦合关系（三通管）.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
