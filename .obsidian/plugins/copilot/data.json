@@ -16,7 +16,7 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "sk-d6a6bd3dce2e4b65b954d3ef197a647e",
+  "deepseekApiKey": "sk-2b9cb891001a44c6983481c83090f6af",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-chat|deepseek",
   "embeddingModelKey": "text-embedding-3-small|openai",
@@ -111,16 +111,6 @@
       ]
     },
     {
-      "name": "gpt-5-nano",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ]
-    },
-    {
       "name": "gpt-4.1",
       "provider": "openai",
       "enabled": true,
@@ -138,6 +128,16 @@
       "isBuiltIn": true,
       "core": true,
       "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
       "capabilities": [
         "vision"
       ]
@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -197,8 +197,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -253,7 +253,13 @@
       "name": "deepseek-chat",
       "provider": "deepseek",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "maxTokens": 65000,
+      "temperature": 0.15,
+      "enableCors": true,
+      "capabilities": [
+        "reasoning"
+      ]
     },
     {
       "name": "deepseek-reasoner",
@@ -313,6 +319,15 @@
       "core": true
     },
     {
+      "name": "Qwen/Qwen3-Embedding-0.6B",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "baseUrl": "https://api.siliconflow.com/v1"
+    },
+    {
       "name": "text-embedding-3-large",
       "provider": "openai",
       "enabled": true,
@@ -357,7 +372,7 @@
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "3.1.2",
   "passMarkdownImages": true,
   "enableAutonomousAgent": false,
   "enableCustomPromptTemplating": true,
@@ -381,5 +396,8 @@
   "enableRecentConversations": false,
   "maxRecentConversations": 30,
   "enableSavedMemory": false,
-  "enableInlineCitations": true
+  "enableInlineCitations": true,
+  "quickCommandIncludeNoteContext": true,
+  "autoIncludeTextSelection": false,
+  "defaultSendShortcut": "enter"
 }
