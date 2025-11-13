@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "未命名.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8b210128773f31",
+  "active": "5bdf488c258e2902",
   "lastOpenFiles": [
     "未命名.md",
     "求解器的最小系统装配分析/3.水力–热力–容积类模型的耦合最小系统（以房间为例）.md",
