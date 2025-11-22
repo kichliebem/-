@@ -1,5 +1,5 @@
 {
-  "userId": "f743a63f-99a9-490c-ae1b-e88314e858da",
+  "userId": "b32da1ff-b79c-46ae-94b2-24c5907f3528",
   "isPlusUser": false,
   "plusLicenseKey": "",
   "openAIApiKey": "",
@@ -16,20 +16,20 @@
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "sk-2b9cb891001a44c6983481c83090f6af",
+  "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "deepseek-chat|deepseek",
+  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
-  "contextTurns": 15,
+  "contextTurns": 50,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
-  "autosaveChat": false,
+  "autosaveChat": true,
   "generateAIChatTitleOnSave": true,
   "includeActiveNoteAsContext": true,
   "defaultOpenArea": "view",
@@ -133,16 +133,6 @@
       ]
     },
     {
-      "name": "gpt-5-nano",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ]
-    },
-    {
       "name": "openai/gpt-4.1",
       "provider": "openrouterai",
       "enabled": true,
@@ -165,18 +155,23 @@
       ]
     },
     {
+      "name": "grok-4-fast",
+      "provider": "xai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": false,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
       "name": "x-ai/grok-4-fast",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
       "core": false,
-      "projectEnabled": true
-    },
-    {
-      "name": "gpt-4.1-nano",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
+      "projectEnabled": true,
       "capabilities": [
         "vision"
       ]
@@ -190,28 +185,6 @@
         "reasoning",
         "vision"
       ]
-    },
-    {
-      "name": "claude-3-7-sonnet-latest",
-      "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true,
-      "capabilities": [
-        "reasoning",
-        "vision"
-      ]
-    },
-    {
-      "name": "grok-3-beta",
-      "provider": "xai",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "grok-3-mini-beta",
-      "provider": "xai",
-      "enabled": true,
-      "isBuiltIn": true
     },
     {
       "name": "gemini-2.5-flash",
@@ -253,19 +226,30 @@
       "name": "deepseek-chat",
       "provider": "deepseek",
       "enabled": true,
-      "isBuiltIn": true,
-      "maxTokens": 65000,
-      "temperature": 0.15,
-      "enableCors": true,
-      "capabilities": [
-        "reasoning"
-      ]
+      "isBuiltIn": true
     },
     {
       "name": "deepseek-reasoner",
       "provider": "deepseek",
       "enabled": true,
       "isBuiltIn": true,
+      "capabilities": [
+        "reasoning"
+      ]
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.com/v1"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-R1",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.siliconflow.com/v1",
       "capabilities": [
         "reasoning"
       ]
@@ -372,13 +356,13 @@
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": "3.1.2",
+  "lastDismissedVersion": null,
   "passMarkdownImages": true,
-  "enableAutonomousAgent": false,
+  "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
   "enableSemanticSearchV3": false,
   "enableLexicalBoosts": true,
-  "suggestedDefaultCommands": true,
+  "suggestedDefaultCommands": false,
   "autonomousAgentMaxIterations": 4,
   "autonomousAgentEnabledToolIds": [
     "localSearch",
@@ -388,16 +372,19 @@
     "youtubeTranscription",
     "writeToFile",
     "replaceInFile",
-    "memoryTool"
+    "updateMemory"
   ],
   "reasoningEffort": "low",
   "verbosity": "medium",
   "memoryFolderName": "copilot/memory",
-  "enableRecentConversations": false,
+  "enableRecentConversations": true,
   "maxRecentConversations": 30,
-  "enableSavedMemory": false,
+  "enableSavedMemory": true,
   "enableInlineCitations": true,
   "quickCommandIncludeNoteContext": true,
   "autoIncludeTextSelection": false,
-  "defaultSendShortcut": "enter"
+  "defaultSendShortcut": "enter",
+  "amazonBedrockApiKey": "",
+  "amazonBedrockRegion": "",
+  "siliconflowApiKey": ""
 }
