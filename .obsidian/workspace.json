@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求解器的最小系统装配分析/2.水力-热力耦合最小系统.md",
+                "file": "ChatGPT-文件夹知识总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.水力-热力耦合最小系统"
+              "title": "ChatGPT-文件夹知识总结"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "acd7eed781bee0ae",
   "lastOpenFiles": [
+    "求解器的最小系统装配分析/2.水力-热力耦合最小系统.md",
+    "ChatGPT-文件夹知识总结.md",
     "求解器的最小系统装配分析/3.水力–热力–容积类模型的耦合最小系统（以房间为例）.md",
     "水力求解器拓扑与矩阵体系——完整总结.md",
     "copilot/copilot-conversations/1@20251123_000456.md",
@@ -217,7 +219,6 @@
     "Pasted image 20251111201519.png",
     "Pasted image 20251111201532.png",
     "求解器的最小系统装配分析/1.水力最小系统.md",
-    "求解器的最小系统装配分析/2.水力-热力耦合最小系统.md",
     "求解器开发/六个月的计划.md",
     "Pasted image 20251111195727.png",
     "一键取消抖音点赞.md",
@@ -240,7 +241,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Hydraulic_Solver_Graph.canvas",
