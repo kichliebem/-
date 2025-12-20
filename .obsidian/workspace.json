@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "ChatGPT-文件夹知识总结"
             }
+          },
+          {
+            "id": "f863a1cd86d1fce2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd7eed781bee0ae",
+  "active": "f863a1cd86d1fce2",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/a@20251205_104305.md",
     "求解器的最小系统装配分析/2.水力-热力耦合最小系统.md",
     "ChatGPT-文件夹知识总结.md",
     "求解器的最小系统装配分析/3.水力–热力–容积类模型的耦合最小系统（以房间为例）.md",
@@ -240,7 +253,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Hydraulic_Solver_Graph.canvas",
