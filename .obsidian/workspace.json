@@ -67,12 +67,14 @@
             "id": "9ccb1f991de94117",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "热工流体数值求解器开发常见难点与对策.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "热工流体数值求解器开发常见难点与对策"
             }
           }
         ],
@@ -248,7 +250,12 @@
   },
   "active": "9ccb1f991de94117",
   "lastOpenFiles": [
+    "集中空调更新思路.md",
+    "热工流体数值求解器开发常见难点与对策.md",
     "水力求解器拓扑与矩阵体系——完整总结.md",
+    "制冷回路拓补关联矩阵表示方法.md",
+    "Pasted image 20251111201532.png",
+    "Pasted image 20251111201519.png",
     "未命名 1.md",
     "copilot/copilot-conversations/a@20251205_104305.md",
     "求解器的最小系统装配分析/2.水力-热力耦合最小系统.md",
@@ -257,15 +264,10 @@
     "copilot/copilot-conversations/1@20251123_000456.md",
     "copilot/copilot-conversations",
     "未命名.md",
-    "制冷回路拓补关联矩阵表示方法.md",
-    "Pasted image 20251111201519.png",
-    "Pasted image 20251111201532.png",
     "求解器的最小系统装配分析/1.水力最小系统.md",
     "求解器开发/六个月的计划.md",
     "Pasted image 20251111195727.png",
     "一键取消抖音点赞.md",
-    "热工流体数值求解器开发常见难点与对策.md",
-    "集中空调更新思路.md",
     "矩阵变换类型及应用.md",
     "全局管网求解器方程与雅可比矩阵结构说明.md",
     "关于参数装配的选择.md",
@@ -280,7 +282,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Hydraulic_Solver_Graph.canvas",
