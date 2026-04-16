@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "未命名 2"
             }
+          },
+          {
+            "id": "825af00462a0dbae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ccb1f991de94117",
+  "active": "825af00462a0dbae",
   "lastOpenFiles": [
     "未命名.md",
     "未命名 2.md",
