@@ -81,12 +81,14 @@
             "id": "825af00462a0dbae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "未命名 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
+              "icon": "lucide-file",
+              "title": "未命名 3"
             }
           }
         ],
@@ -262,13 +264,15 @@
   },
   "active": "825af00462a0dbae",
   "lastOpenFiles": [
+    "Pasted image 20251111201532.png",
+    "未命名 3.md",
+    "copilot/copilot-conversations/1@20260416_190747.md",
     "未命名.md",
     "未命名 2.md",
     "未命名 1.md",
     "热工流体数值求解器开发常见难点与对策.md",
     "制冷回路拓补关联矩阵表示方法.md",
     "ChatGPT-文件夹知识总结.md",
-    "Pasted image 20251111201532.png",
     "集中空调更新思路.md",
     "水力求解器拓扑与矩阵体系——完整总结.md",
     "Pasted image 20251111201519.png",
@@ -292,9 +296,6 @@
     "未命名.base",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Hydraulic_Solver_Graph.canvas",
