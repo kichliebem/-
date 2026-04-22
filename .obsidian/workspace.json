@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-23_00-34-22_一、先把整个局面定性.md",
+                "file": "2026-04-23_00-38-04_一、整件事的本质结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-23_00-34-22_一、先把整个局面定性"
+              "title": "2026-04-23_00-38-04_一、整件事的本质结构"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-23_00-34-22_一、先把整个局面定性.md",
+                "file": "2026-04-23_00-38-04_一、整件事的本质结构.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-23_00-34-22_一、先把整个局面定性 的大纲"
+              "title": "2026-04-23_00-38-04_一、整件事的本质结构 的大纲"
             }
           },
           {
@@ -262,12 +262,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0df3ca51ba085ad",
+  "active": "825af00462a0dbae",
   "lastOpenFiles": [
-    "2026-04-23_00-32-14_一、整件事的本质结构.md",
-    "2026-04-23_00-34-22_一、先把整个局面定性.md",
-    "2026-04-23_00-31-04_一、整件事的本质结构.md",
+    "2026-04-23_00-38-04_一、整件事的本质结构 1.md",
     "ChatGPT-项目交付分析.md",
+    "2026-04-23_00-38-04_一、整件事的本质结构.md",
+    "项目交付分析 (3).md",
+    "2026-04-23_00-34-22_一、先把整个局面定性.md",
+    "项目交付分析.md",
+    "2026-04-23_00-32-14_一、整件事的本质结构.md",
+    "2026-04-23_00-31-04_一、整件事的本质结构.md",
     "ChatGPT-文件夹知识总结.md",
     "ChatGPT File Uploader & Conversation Saver.md",
     "ChatGPT File Uploader & Conversation Saver 1.md",
@@ -289,11 +293,7 @@
     "copilot/copilot-conversations/1@20251123_000456.md",
     "copilot/copilot-conversations",
     "求解器的最小系统装配分析/1.水力最小系统.md",
-    "求解器开发/六个月的计划.md",
     "Pasted image 20251111195727.png",
-    "一键取消抖音点赞.md",
-    "矩阵变换类型及应用.md",
-    "全局管网求解器方程与雅可比矩阵结构说明.md",
     "求解器的最小系统装配分析",
     "未命名",
     "未命名.base",
