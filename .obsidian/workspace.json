@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-23_00-38-04_一、整件事的本质结构.md",
+                "file": "项目交付分析 d2cd6b97128b4f6190bbb65c9e651632.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-23_00-38-04_一、整件事的本质结构"
+              "title": "项目交付分析 d2cd6b97128b4f6190bbb65c9e651632"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-23_00-38-04_一、整件事的本质结构.md",
-                "followCursor": true,
+                "file": "项目交付分析 d2cd6b97128b4f6190bbb65c9e651632.md",
+                "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-23_00-38-04_一、整件事的本质结构 的大纲"
+              "title": "项目交付分析 d2cd6b97128b4f6190bbb65c9e651632 的大纲"
             }
           },
           {
@@ -262,11 +262,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "825af00462a0dbae",
+  "active": "f0df3ca51ba085ad",
   "lastOpenFiles": [
+    "2026-04-23_00-38-04_一、整件事的本质结构.md",
+    "项目交付分析 d2cd6b97128b4f6190bbb65c9e651632.md",
     "2026-04-23_00-38-04_一、整件事的本质结构 1.md",
     "ChatGPT-项目交付分析.md",
-    "2026-04-23_00-38-04_一、整件事的本质结构.md",
     "项目交付分析 (3).md",
     "2026-04-23_00-34-22_一、先把整个局面定性.md",
     "项目交付分析.md",
@@ -292,7 +293,6 @@
     "求解器的最小系统装配分析/3.水力–热力–容积类模型的耦合最小系统（以房间为例）.md",
     "copilot/copilot-conversations/1@20251123_000456.md",
     "copilot/copilot-conversations",
-    "求解器的最小系统装配分析/1.水力最小系统.md",
     "Pasted image 20251111195727.png",
     "求解器的最小系统装配分析",
     "未命名",
